@@ -1,1 +1,1 @@
-# awesome_object_detection_list
+# awesome Object Detection list
